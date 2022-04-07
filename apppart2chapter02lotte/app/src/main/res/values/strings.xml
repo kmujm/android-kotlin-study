@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">app-part2-chapter02-lotte</string>
+    <string name="addNumberButton">번호 추가하기</string>
+    <string name="clearButton">초기화</string>
+    <string name="runButton">자동 생성 시작</string>
+</resources>
